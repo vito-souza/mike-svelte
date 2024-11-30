@@ -90,5 +90,15 @@
 		border-radius: 1rem;
 
 		padding: 0.5rem 1rem;
+
+		transition: border-color 0.3s ease;
+
+		&:hover {
+			border: 1px solid rgba(0, 0, 0, 0.3);
+		}
+	}
+
+	img {
+		cursor: pointer;
 	}
 </style>

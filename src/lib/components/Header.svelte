@@ -43,7 +43,7 @@
 		align-items: center;
 		justify-content: space-between;
 
-		padding: 2rem 10rem 1rem;
+		margin: 2rem 10rem 1rem;
 	}
 
 	.topics,

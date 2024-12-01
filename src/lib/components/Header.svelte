@@ -21,14 +21,14 @@
 				<button aria-label="Carrinho de compras">
 					<iconify-icon
 						icon="material-symbols-light:shopping-bag-outline-sharp"
-						width="32"
-						height="32"
+						width="2rem"
+						height="2rem"
 					></iconify-icon>
 				</button>
 			</li>
 			<li>
 				<button aria-label="Favoritos">
-					<iconify-icon icon="material-symbols-light:favorite-outline" width="32" height="32"
+					<iconify-icon icon="material-symbols-light:favorite-outline" width="2rem" height="2rem"
 					></iconify-icon>
 				</button>
 			</li>
@@ -43,7 +43,7 @@
 		align-items: center;
 		justify-content: space-between;
 
-		margin: 2rem 10rem 1rem;
+		padding: 2rem 10rem 1rem;
 	}
 
 	.topics,

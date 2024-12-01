@@ -36,14 +36,15 @@
 			<span>Redes sociais</span>
 			<div class="social-media-links">
 				<button aria-label="Facebook"
-					><iconify-icon icon="fa6-brands:facebook" width="2em" height="2em"></iconify-icon></button
+					><iconify-icon icon="fa6-brands:facebook" width="2rem" height="2rem"
+					></iconify-icon></button
 				>
 				<button aria-label="Instagram"
-					><iconify-icon icon="fa6-brands:instagram" width="1.75em" height="2em"
+					><iconify-icon icon="fa6-brands:instagram" width="1.75rem" height="2rem"
 					></iconify-icon></button
 				>
 				<button aria-label="Youtube"
-					><iconify-icon icon="fa6-brands:youtube" width="2.25em" height="2em"
+					><iconify-icon icon="fa6-brands:youtube" width="2.25rem" height="2rem"
 					></iconify-icon></button
 				>
 			</div>

@@ -69,8 +69,8 @@
 		align-items: flex-start;
 		justify-content: space-between;
 
-		padding-bottom: 2rem;
-		margin: 2rem 10rem 0;
+		padding: 2rem 0;
+		margin: 0 10rem 0;
 	}
 
 	.info div a {
@@ -105,6 +105,8 @@
 
 	.social-media-links {
 		display: flex;
+
+		align-items: center;
 
 		gap: 1rem;
 		margin-top: 1rem;
